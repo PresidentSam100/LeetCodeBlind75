@@ -1,5 +1,6 @@
 /*
 217. Contains Duplicate
+Link: https://leetcode.com/problems/contains-duplicate/
 Code by: Sam Lu
 Language: Java
 Time Complexity: O(n)
