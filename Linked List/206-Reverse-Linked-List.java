@@ -23,7 +23,7 @@ Note: This code answers the follow-up of coding both the iterative and recursive
  * }
  */
 class Solution {
-	// Iterative Solution
+    // Iterative Solution
     public ListNode reverseList(ListNode head) {
         ListNode prev = null;
         ListNode curr = head;
@@ -37,9 +37,9 @@ class Solution {
         head = prev;
         return head;
     }
-	/*
-	// Recursive Solution
-	public ListNode reverseList(ListNode head) {
+    /*
+    // Recursive Solution
+    public ListNode reverseList(ListNode head) {
         if (head == null || head.next == null)
             return head;
         ListNode next = head.next;
@@ -48,5 +48,5 @@ class Solution {
         next.next = head;
         return head_new;
     }
-	*/
+    */
 }
