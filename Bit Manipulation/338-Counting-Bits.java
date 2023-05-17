@@ -1,6 +1,6 @@
 /*
 338. Counting Bits
-Link: hhttps://leetcode.com/problems/counting-bits/
+Link: https://leetcode.com/problems/counting-bits/
 Code by: Sam Lu
 Language: Java
 Time Complexity: O(n)
