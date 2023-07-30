@@ -1,3 +1,11 @@
+/*
+300. Longest Increasing Subsequence
+Link: https://leetcode.com/problems/longest-increasing-subsequence/
+Code by: Sam Lu
+Language: Java
+Time Complexity: O(nlogn)
+Space Complexity: O(n)
+*/
 class Solution {
     public int lengthOfLIS(int[] nums) {
         int ans = 0;
